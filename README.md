@@ -53,30 +53,12 @@ Prepared a case study on cybercrime (such as phishing or UPI fraud) along with a
 
 ## 🔗 Project Links
 
-* 📄 **Project Report:** 
+
 * 📊 **Google Form (Quiz):** https://docs.google.com/forms/d/e/1FAIpQLScAytTMGwWI3nBGm0inMqKiYQM4-9MZsWjH--Th1wYb8QfPqg/viewform?usp=sharing&ouid=100579233084862894675
 * 💼 **LinkedIn Profile:** https://www.linkedin.com/in/charvi-agrawal-237111346/?skipRedirect=true
-* 💻 **GitHub Profile:** 
+* 💻 **GitHub Profile:** https://github.com/charvi150507
 
 ---
-
-## 📁 Repository Structure
-
-```
-digital-literacy-project/
-│── README.md
-│── report/
-│   └── Project_Report.pdf
-│── task-1-presentation/
-│── task-2-portfolio/
-│── task-3-platforms/
-│── task-4-email-etiquette/
-│── task-5-cybercrime/
-```
-
----
-
-## ✅ Key Learning
 
 This project helped in understanding the importance of digital literacy in academic and professional life. It improved skills in communication, online safety awareness, and using digital platforms effectively.
 
