@@ -53,10 +53,10 @@ Prepared a case study on cybercrime (such as phishing or UPI fraud) along with a
 
 ## 🔗 Project Links
 
-* 📄 **Project Report:** (Add your report link here)
-* 📊 **Google Form (Quiz):** (Paste your form link here)
-* 💼 **LinkedIn Profile:** (Paste your profile link here)
-* 💻 **GitHub Profile:** (Paste your profile link here)
+* 📄 **Project Report:** 
+* 📊 **Google Form (Quiz):** https://docs.google.com/forms/d/e/1FAIpQLScAytTMGwWI3nBGm0inMqKiYQM4-9MZsWjH--Th1wYb8QfPqg/viewform?usp=sharing&ouid=100579233084862894675
+* 💼 **LinkedIn Profile:** https://www.linkedin.com/in/charvi-agrawal-237111346/?skipRedirect=true
+* 💻 **GitHub Profile:** 
 
 ---
 
