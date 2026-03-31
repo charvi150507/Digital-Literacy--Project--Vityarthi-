@@ -2,9 +2,9 @@
 
 ## 👤 Student Details
 
-* **Name:** Your Name
-* **Registration Number:** Your Reg No.
-* **Branch:** B.Tech (Your Branch)
+* **Name:** Charvi Agrawal 
+* **Registration Number:** 25BCE10646
+* **Branch:** B.Tech (CSE Core)
 * **Year:** 1st Year
 
 ---
